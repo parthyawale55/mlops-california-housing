@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2c3c9a08afcd4c0c98f2e5cdfbe036c2/artifacts
+deleted_time: 1754201333406
+end_time: 1754200771571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2c3c9a08afcd4c0c98f2e5cdfbe036c2
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754200757815
+status: 4
+tags: []
+user_id: Parth

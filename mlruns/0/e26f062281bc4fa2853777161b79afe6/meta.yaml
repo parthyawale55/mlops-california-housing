@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e26f062281bc4fa2853777161b79afe6/artifacts
+end_time: 1754208583902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e26f062281bc4fa2853777161b79afe6
+run_name: DecisionTreeRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754208579334
+status: 3
+tags: []
+user_id: Parth

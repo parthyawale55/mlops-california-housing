@@ -1,6 +1,9 @@
 fastapi
 uvicorn
-scikit-learn
 joblib
+scikit-learn
 pydantic
 numpy
+mlflow
+pandas
+prometheus_client

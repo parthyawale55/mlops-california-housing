@@ -1,0 +1,13 @@
+digest: 269628ca
+name: dataset
+profile: '{"num_rows": 16512, "num_elements": 132096}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "MedInc", "required": true},
+  {"type": "double", "name": "HouseAge", "required": true}, {"type": "double", "name":
+  "AveRooms", "required": true}, {"type": "double", "name": "AveBedrms", "required":
+  true}, {"type": "double", "name": "Population", "required": true}, {"type": "double",
+  "name": "AveOccup", "required": true}, {"type": "double", "name": "Latitude", "required":
+  true}, {"type": "double", "name": "Longitude", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Parth", "mlflow.source.name": "c:\\Users\\Parth\\Desktop\\BITS
+  Courses\\MLOps\\Assignment\\mlops-california-housing\\venv\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
