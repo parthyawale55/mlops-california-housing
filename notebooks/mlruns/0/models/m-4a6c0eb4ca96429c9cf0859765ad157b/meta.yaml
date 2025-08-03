@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Parth/Desktop/BITS%20Courses/MLOps/Assignment/mlops-california-housing/notebooks/mlruns/0/models/m-4a6c0eb4ca96429c9cf0859765ad157b/artifacts
+creation_timestamp: 1754200981049
+experiment_id: '0'
+last_updated_timestamp: 1754200991477
+model_id: m-4a6c0eb4ca96429c9cf0859765ad157b
+model_type: null
+name: model
+source_run_id: 9f3e44865eac42fca25556b2de3c701e
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Parth/Desktop/BITS%20Courses/MLOps/Assignment/mlops-california-housing/notebooks/mlruns/0/9f3e44865eac42fca25556b2de3c701e/artifacts
+end_time: 1754200991508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f3e44865eac42fca25556b2de3c701e
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754200980753
+status: 3
+tags: []
+user_id: Parth
