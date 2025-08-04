@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5856a20722ae486fa0d9fbc72853a224/artifacts
+end_time: 1754292848563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5856a20722ae486fa0d9fbc72853a224
+run_name: BestModelRegistration
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754292841161
+status: 3
+tags: []
+user_id: Parth
