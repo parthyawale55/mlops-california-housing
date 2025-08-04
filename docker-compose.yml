@@ -1,6 +1,18 @@
 version: '3.7'
 
 services:
+  app:
+    build: .
+    container_name: mlops-housing-app
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./logs:/app/logs
+      - ./data:/app/data
+      - ./models:/app/models
+    depends_on:
+      - prometheus
+
   prometheus:
     image: prom/prometheus
     container_name: prometheus
