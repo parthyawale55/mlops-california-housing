@@ -1,10 +1,9 @@
 from fastapi.testclient import TestClient
-from api.app import app  # Import your FastAPI app
+from api.app import app
 
 client = TestClient(app)
 
 def test_predict_endpoint():
-    # Provide a realistic input example based on your model's schema
     sample_input = {
         "longitude": -122.23,
         "latitude": 37.88,

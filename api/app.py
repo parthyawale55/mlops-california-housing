@@ -9,7 +9,6 @@ import subprocess
 from prometheus_client import Counter, generate_latest
 from fastapi.responses import PlainTextResponse
 
-# Set up logging directory and format
 os.makedirs("logs", exist_ok=True)
 logging.basicConfig(
     filename="logs/predictions.log",

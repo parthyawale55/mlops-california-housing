@@ -2,7 +2,7 @@ name: CI/CD Pipeline
 
 on:
   push:
-    branches: [main]  # Or "master" if that's your branch name
+    branches: [main]  
 
 jobs:
   build-and-deploy:
@@ -35,7 +35,6 @@ jobs:
     - name: Push Docker image
       run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/mlops-housing-app:latest
 
-    # This is the new, final step that completes the deployment requirement
     - name: Run Container Locally on Runner
       run: |
         echo "Simulating local deployment by running the container on the CI runner..."
