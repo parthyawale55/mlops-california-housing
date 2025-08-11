@@ -22,4 +22,4 @@ model.fit(X_train, y_train)
 
 # Save it
 joblib.dump(model, "models/best_model.pkl")
-print("✅ Model retrained and saved to models/best_model.pkl")
+print("Model retrained and saved to models/best_model.pkl")

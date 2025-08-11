@@ -1,11 +1,11 @@
-# Stop and remove any existing container
+# Stop and remove existing container
 docker stop mlops-housing-app
 docker rm mlops-housing-app
 
-# Pull the latest image
+# Pull image
 docker pull pdyawale/mlops-housing-app:latest
 
-# Run the container with volume mapping for logs
+# Run container with volume mapping for logs
 docker run -d `
   --name mlops-housing-app `
   -p 8000:8000 `

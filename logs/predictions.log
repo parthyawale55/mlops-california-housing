@@ -13,3 +13,4 @@
 2025-08-04 09:40:18,083 - INFO - Input: {'MedInc': 8.3252, 'HouseAge': 41.0, 'AveRooms': 6.9841, 'AveBedrms': 1.0238, 'Population': 322.0, 'AveOccup': 2.5556, 'Latitude': 37.88, 'Longitude': -122.0}, Prediction: 4.778788739495789
 2025-08-04 09:40:31,499 - INFO - Input: {'MedInc': 8.3252, 'HouseAge': 41.0, 'AveRooms': 6.9841, 'AveBedrms': 1.0238, 'Population': 322.0, 'AveOccup': 2.5556, 'Latitude': 37.88, 'Longitude': -122.0}, Prediction: 4.778788739495789
 2025-08-04 09:42:53,371 - INFO - Input: {'MedInc': 8.3252, 'HouseAge': 41.0, 'AveRooms': 6.9841, 'AveBedrms': 1.0238, 'Population': 322.0, 'AveOccup': 2.5556, 'Latitude': 37.88, 'Longitude': -122.0}, Prediction: 4.778788739495789
+2025-08-10 05:58:40,142 - INFO - Input: {'MedInc': 0.0, 'HouseAge': 0.0, 'AveRooms': 0.0, 'AveBedrms': 0.0, 'Population': 0.0, 'AveOccup': 0.0, 'Latitude': 0.0, 'Longitude': 0.0}, Prediction: 1.7731197731958759
